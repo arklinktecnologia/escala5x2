@@ -1,0 +1,6 @@
+{
+  "name": "Supermercado Casagrande — Gestão de Escalas",
+  "description": "Sistema web de gestão de funcionários e geração automática de escalas de trabalho 5x2 para o Supermercado Casagrande.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
